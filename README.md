@@ -76,4 +76,4 @@ So a broker can be a **leader and a follower at the same time**, just for differ
 
 ## Previous
 
-How Kafka stores your data on disk: [Kafka Storage](../kafka-on-disk).
+How Kafka stores your data on disk: [Kafka Storage](https://github.com/SidVermaS/kafka-storage).
